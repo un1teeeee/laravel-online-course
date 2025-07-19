@@ -65,9 +65,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-# Название проекта
+## Название проекта
 
-Краткое описание (1-2 предложения)
+Учебный проект - Онлайн-курсы
 
 ## Технологический стэк
 - Laravel 11
